@@ -10,8 +10,6 @@ I am a passionate and driven Computer Science and Engineering (CSE) student at B
 
 ![](https://github-readme-stats.vercel.app/api?username=Pranto-Roy-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pranto-Roy-10&theme=dark&hide_border=false)<br/>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranto-Roy-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
