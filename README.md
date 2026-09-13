@@ -1,27 +1,187 @@
-# 💫 About Me:
-I am a passionate and driven Computer Science and Engineering (CSE) student at BRAC University, with a strong focus on Python programming and a keen interest in exploring the ever-evolving world of technology. I am constantly expanding my expertise in programming languages, web development, and cybersecurity, and I have hands-on experience in projects such as building a line-following obstacle-avoiding car and developing an online marketplace management system using HTML, CSS, JavaScript, SQL, and PHP.<br><br>I recently participated in the Goldman Sachs Software Engineering Virtual Experience Program on Forage, where I assessed IT security practices, identified vulnerabilities in password hashing algorithms, and proposed actionable improvements to enhance cybersecurity. This experience allowed me to sharpen my problem-solving skills and deepen my understanding of real-world software engineering challenges.<br><br>Beyond academics, I am an active member of the BRAC University Research for Development Club and have contributed as a volunteer at the State Level Public Speaking Competition “Speakathon”, earning recognition for my efforts. I am also a recipient of The Duke of Edinburgh’s International Award (Bronze Standard), which reflects my commitment to personal growth and well-rounded development.<br><br>With a solid foundation in Python, web design, database management, and problem-solving, I am eager to collaborate, share ideas, and push the boundaries of what technology can achieve. I am fluent in both Bangla and English and am always open to new opportunities for growth, innovation, and making a meaningful impact in the tech world.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:9D00FF,70:FF2E97,100:00F0FF&height=220&section=header&text=PRANTO%20ROY&fontSize=70&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=%5B%20CSE%20UNDERGRAD%20%2F%2F%20BRAC%20UNIVERSITY%20%5D&descAlignY=54&descSize=16" width="100%"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/pranto.roy.96592) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ro_y101/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranto-roy-2a406b349/) 
+<a href="https://www.linkedin.com/in/pranto-roy-2a406b349/">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=26&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=800&height=60&lines=%3E+establishing+neural+link...;%3E+user%3A+pranto_roy+%7C%7C+clearance%3A+granted;%3E+stack%3A+python+%2F%2F+web+%2F%2F+cybersecurity;%3E+status%3A+compiling+the+future._" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pranto-Roy-10&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pranto-Roy-10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranto-Roy-10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/LOCATION-DHAKA%2C%20BD-FF2E97?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/LANG-BANGLA%20%7C%20ENGLISH-9D00FF?style=flat-square&labelColor=0D1117)
+[![](https://komarev.com/ghpvc/?username=Pranto-Roy-10&color=FF2E97&style=flat-square&label=VISITORS)](https://github.com/Pranto-Roy-10)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pranto-Roy-10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:FF2E97,100:9D00FF&height=3&section=header" width="100%"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pranto-Roy-10&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Pranto-Roy-10&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://img.shields.io/badge/01-WHOAMI-FF2E97?style=for-the-badge&labelColor=0D1117" height="32"/>
+</div>
 
+```python
+class PrantoRoy:
+    """ // ACCESS NODE :: BRAC UNIVERSITY MAINFRAME """
+
+    def __init__(self):
+        self.alias        = "Pranto Roy"
+        self.role         = "CSE Undergrad @ BRAC University"
+        self.core_stack   = ["Python", "JavaScript", "PHP", "SQL"]
+        self.focus        = ["Web Development", "Cybersecurity", "Machine Learning"]
+        self.languages    = {"bn": "native", "en": "fluent"}
+        self.current_task = "pushing the limits of what tech can do"
+
+    def ping(self):
+        return "open to collaboration // always building"
+```
+
+```bash
+pranto@bracu:~$ cat ./dossier.log
+
+[✓] Goldman Sachs SWE Virtual Experience — Forage
+    └─ audited IT security practices, broke down weak password
+       hashing algorithms, shipped hardening recommendations
+[✓] BRAC University Research for Development Club — active member
+[✓] "Speakathon" State Level Public Speaking Comp — recognized volunteer
+[✓] Duke of Edinburgh's International Award — Bronze Standard
+```
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/02-ARSENAL-00F0FF?style=for-the-badge&labelColor=0D1117" height="32"/>
+</div>
+
+<div align="center">
+
+**` CORE `**
+
+![Python](https://img.shields.io/badge/Python-00F0FF?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF2E97?style=for-the-badge&logo=javascript&logoColor=0D1117&labelColor=0D1117)
+![PHP](https://img.shields.io/badge/PHP-9D00FF?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-00F0FF?style=for-the-badge&logo=mysql&logoColor=0D1117&labelColor=0D1117)
+
+**` WEB `**
+
+![HTML5](https://img.shields.io/badge/HTML5-FF2E97?style=for-the-badge&logo=html5&logoColor=0D1117&labelColor=0D1117)
+![CSS3](https://img.shields.io/badge/CSS3-9D00FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/Node.js-00F0FF?style=for-the-badge&logo=node.js&logoColor=0D1117&labelColor=0D1117)
+
+**` DATA // ML `**
+
+![NumPy](https://img.shields.io/badge/NumPy-00F0FF?style=for-the-badge&logo=numpy&logoColor=0D1117&labelColor=0D1117)
+![Pandas](https://img.shields.io/badge/Pandas-FF2E97?style=for-the-badge&logo=pandas&logoColor=0D1117&labelColor=0D1117)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-9D00FF?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117)
+![PyTorch](https://img.shields.io/badge/PyTorch-FF2E97?style=for-the-badge&logo=pytorch&logoColor=0D1117&labelColor=0D1117)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00F0FF?style=for-the-badge&logo=tensorflow&logoColor=0D1117&labelColor=0D1117)
+![MLflow](https://img.shields.io/badge/MLflow-9D00FF?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=0D1117)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-00F0FF?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=0D1117)
+![Plotly](https://img.shields.io/badge/Plotly-FF2E97?style=for-the-badge&logo=plotly&logoColor=0D1117&labelColor=0D1117)
+
+**` CREATIVE // TOOLING `**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-9D00FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=0D1117)
+![Lightroom](https://img.shields.io/badge/Lightroom-00F0FF?style=for-the-badge&logo=adobelightroom&logoColor=0D1117&labelColor=0D1117)
+![Git](https://img.shields.io/badge/Git-FF2E97?style=for-the-badge&logo=git&logoColor=0D1117&labelColor=0D1117)
+![VS Code](https://img.shields.io/badge/VS_Code-9D00FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/03-MISSION_LOG-9D00FF?style=for-the-badge&labelColor=0D1117" height="32"/>
+</div>
+
+<div align="center">
+
+| `ID` | `PROJECT` | `PAYLOAD` | `STATUS` |
+|:---:|:---|:---|:---:|
+| `#001` | **Autonomous Line-Follower** | Obstacle-avoiding robotic car — sensor logic + embedded control | ![](https://img.shields.io/badge/SHIPPED-00F0FF?style=flat-square&labelColor=0D1117) |
+| `#002` | **Online Marketplace Manager** | Full-stack marketplace system — `HTML` `CSS` `JS` `PHP` `SQL` | ![](https://img.shields.io/badge/SHIPPED-00F0FF?style=flat-square&labelColor=0D1117) |
+| `#003` | **GS Security Audit** | Hash-algorithm vulnerability analysis + remediation proposal | ![](https://img.shields.io/badge/SHIPPED-00F0FF?style=flat-square&labelColor=0D1117) |
+| `#004` | **[ CLASSIFIED ]** | next build loading... | ![](https://img.shields.io/badge/IN_PROGRESS-FF2E97?style=flat-square&labelColor=0D1117) |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/04-SYSTEM_DIAGNOSTICS-FF2E97?style=for-the-badge&labelColor=0D1117" height="32"/>
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranto-Roy-10&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF2E97&icon_color=00F0FF&text_color=C9D1D9&ring_color=9D00FF" />
+<img width="41%" src="https://streak-stats.demolab.com?user=Pranto-Roy-10&hide_border=true&background=0D1117&stroke=9D00FF&ring=FF2E97&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+
+<br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranto-Roy-10&layout=compact&langs_count=8&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranto-Roy-10&bg_color=0D1117&color=00F0FF&line=FF2E97&point=FFFFFF&area=true&area_color=9D00FF&title_color=FF2E97&hide_border=true&custom_title=NEURAL%20ACTIVITY%20FEED" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/05-TROPHY_CACHE-00F0FF?style=for-the-badge&labelColor=0D1117" height="32"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pranto-Roy-10&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="95%"/>
+
+<br/>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Pranto-Roy-10&limit=5&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=FF2E97&text_color=C9D1D9" width="45%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/06-TRANSMISSIONS-9D00FF?style=for-the-badge&labelColor=0D1117" height="32"/>
+</div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pranto-roy-2a406b349/">
+<img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" />
+</a>
+<a href="https://www.facebook.com/pranto.roy.96592">
+<img src="https://img.shields.io/badge/FACEBOOK-9D00FF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://www.instagram.com/ro_y101/">
+<img src="https://img.shields.io/badge/INSTAGRAM-FF2E97?style=for-the-badge&logo=instagram&logoColor=0D1117&labelColor=0D1117" />
+</a>
+<a href="mailto:prantoroy504@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00F0FF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" />
+</a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Pranto-Roy-10/Pranto-Roy-10/output/snake.svg" alt="snake" width="95%"/>
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D00FF,50:FF2E97,100:00F0FF&height=3&section=header" width="100%"/>
+
+<br/>
+
+`> connection terminated. stay dangerous.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,35:FF2E97,70:9D00FF,100:0D1117&height=140&section=footer" width="100%"/>
+
+</div>
