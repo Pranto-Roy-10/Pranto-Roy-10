@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,80:58A6FF,100:A371F7&height=200&section=header&text=Pranto%20Roy&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Science%20%26%20Engineering%20%E2%80%A2%20BRAC%20University&descAlignY=56&descSize=17&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,80:58A6FF,100:A371F7&height=200&section=header&text=Pranto%20Roy&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=CSE%20Undergraduate%20%E2%80%A2%20BRAC%20University&descAlignY=56&descSize=17&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&height=55&lines=Python+Developer+%26+Full-Stack+Engineer;Building+secure%2C+maintainable+software;Exploring+Machine+Learning+%26+Cybersecurity;Open+to+internships+and+collaboration" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&height=55&lines=Python+Developer+%7C+Full-Stack+Engineer;Building+secure%2C+maintainable+software;Exploring+Machine+Learning+and+Cybersecurity;Open+to+internships+and+collaboration" alt="Typing SVG"/>
 
 <br/>
 
@@ -140,7 +140,7 @@ I like work that sits where software meets the real world — writing the contro
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=700&height=40&lines=Open+to+internships+%26+research+collaboration;Always+happy+to+talk+code.+Reach+out!" alt="connect"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=700&height=40&lines=Open+to+internships+and+research+collaboration;Always+happy+to+talk+code.+Reach+out!" alt="connect"/>
 
 <br/>
 
