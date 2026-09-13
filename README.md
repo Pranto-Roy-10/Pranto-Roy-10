@@ -1,187 +1,239 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:9D00FF,70:FF2E97,100:00F0FF&height=220&section=header&text=PRANTO%20ROY&fontSize=70&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=%5B%20CSE%20UNDERGRAD%20%2F%2F%20BRAC%20UNIVERSITY%20%5D&descAlignY=54&descSize=16" width="100%"/>
-
-<a href="https://www.linkedin.com/in/pranto-roy-2a406b349/">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=26&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=800&height=60&lines=%3E+establishing+neural+link...;%3E+user%3A+pranto_roy+%7C%7C+clearance%3A+granted;%3E+stack%3A+python+%2F%2F+web+%2F%2F+cybersecurity;%3E+status%3A+compiling+the+future._" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![](https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=flat-square&labelColor=0D1117)
-![](https://img.shields.io/badge/LOCATION-DHAKA%2C%20BD-FF2E97?style=flat-square&labelColor=0D1117)
-![](https://img.shields.io/badge/LANG-BANGLA%20%7C%20ENGLISH-9D00FF?style=flat-square&labelColor=0D1117)
-[![](https://komarev.com/ghpvc/?username=Pranto-Roy-10&color=FF2E97&style=flat-square&label=VISITORS)](https://github.com/Pranto-Roy-10)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:FF2E97,100:9D00FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0E13,30:BD00FF,65:00B8FF,100:00FF9F&height=180&section=header&text=&fontSize=0" width="100%"/>
 
 </div>
 
-<br/>
+```
+╔════════════════════════════════════════════════════════════╗
+║    ██████╗ ██████╗  █████╗ ███╗   ██╗████████╗ ██████╗     ║
+║    ██╔══██╗██╔══██╗██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗    ║
+║    ██████╔╝██████╔╝███████║██╔██╗ ██║   ██║   ██║   ██║    ║
+║    ██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║   ██║   ██║   ██║    ║
+║    ██║     ██║  ██║██║  ██║██║ ╚████║   ██║   ╚██████╔╝    ║
+║    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝     ║
+║                                                            ║
+║    ██████╗  ██████╗ ██╗   ██╗                              ║
+║    ██╔══██╗██╔═══██╗╚██╗ ██╔╝                              ║
+║    ██████╔╝██║   ██║ ╚████╔╝      N E T R U N N E R        ║
+║    ██╔══██╗██║   ██║  ╚██╔╝       ─────────────────        ║
+║    ██║  ██║╚██████╔╝   ██║        CSE // BRAC UNIV.        ║
+║    ╚═╝  ╚═╝ ╚═════╝    ╚═╝                                 ║
+╚════════════════════════════════════════════════════════════╝
 
-<div align="center">
-  <img src="https://img.shields.io/badge/01-WHOAMI-FF2E97?style=for-the-badge&labelColor=0D1117" height="32"/>
-</div>
-
-```python
-class PrantoRoy:
-    """ // ACCESS NODE :: BRAC UNIVERSITY MAINFRAME """
-
-    def __init__(self):
-        self.alias        = "Pranto Roy"
-        self.role         = "CSE Undergrad @ BRAC University"
-        self.core_stack   = ["Python", "JavaScript", "PHP", "SQL"]
-        self.focus        = ["Web Development", "Cybersecurity", "Machine Learning"]
-        self.languages    = {"bn": "native", "en": "fluent"}
-        self.current_task = "pushing the limits of what tech can do"
-
-    def ping(self):
-        return "open to collaboration // always building"
+  [ BOOT ] mounting /dev/curiosity ................... OK
+  [ BOOT ] loading python3 runtime ................... OK
+  [ BOOT ] injecting web_stack.so .................... OK
+  [ BOOT ] arming cybersec_probe ..................... OK
+  [ BOOT ] handshake complete — welcome, visitor.
 ```
 
-```bash
-pranto@bracu:~$ cat ./dossier.log
+<div align="center">
 
-[✓] Goldman Sachs SWE Virtual Experience — Forage
-    └─ audited IT security practices, broke down weak password
-       hashing algorithms, shipped hardening recommendations
-[✓] BRAC University Research for Development Club — active member
-[✓] "Speakathon" State Level Public Speaking Comp — recognized volunteer
-[✓] Duke of Edinburgh's International Award — Bronze Standard
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=24&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&width=780&height=50&lines=%3E+turning+caffeine+into+commits+since+2023;%3E+python+%7C%7C+full-stack+%7C%7C+cybersecurity;%3E+currently+decrypting%3A+machine+learning;%3E+open+to+collaborate.+ping+me._" alt="typing" />
+
+![](https://img.shields.io/badge/STATUS-ONLINE-00FF9F?style=flat-square&labelColor=0A0E13)
+![](https://img.shields.io/badge/NODE-DHAKA_%7C%7C_BD-00B8FF?style=flat-square&labelColor=0A0E13)
+![](https://img.shields.io/badge/LANG-BN_%2F%2F_EN-BD00FF?style=flat-square&labelColor=0A0E13)
+[![](https://komarev.com/ghpvc/?username=Pranto-Roy-10&color=00FF9F&style=flat-square&label=TRACES)](https://github.com/Pranto-Roy-10)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://img.shields.io/badge/%2F%2F-SYS.01_→_IDENTITY-00FF9F?style=for-the-badge&labelColor=0A0E13" height="30"/>
+</div>
+
+```yaml
+user:     pranto_roy
+handle:   Pranto-Roy-10
+node:     BRAC University — Computer Science & Engineering
+role:     student // builder // perpetual debugger
+
+directive: >
+  I build things that run. Started with Python, drifted into
+  full-stack web, and now I keep one eye on cybersecurity and
+  one on machine learning. I like problems that don't have a
+  StackOverflow answer yet.
+
+clearance:
+  - Goldman Sachs SWE Virtual Experience (Forage)
+      └── audited IT security posture, dismantled weak password
+          hashing, shipped hardening recommendations
+  - BRAC University Research for Development Club — member
+  - "Speakathon" State Public Speaking Comp — recognized volunteer
+  - Duke of Edinburgh's International Award — Bronze Standard
+
+status: compiling something new
 ```
 
+---
+
+<div align="center">
+<img src="https://img.shields.io/badge/%2F%2F-SYS.02_→_LOADOUT-00B8FF?style=for-the-badge&labelColor=0A0E13" height="30"/>
+</div>
+
+```
+  ┌─ PROFICIENCY MATRIX ─────────────────────────────────────┐
+  │                                                          │
+  │  PYTHON          ████████████████████████░░░░   CORE     │
+  │  HTML / CSS      ██████████████████████░░░░░░   STRONG   │
+  │  JAVASCRIPT      ███████████████████░░░░░░░░░   STRONG   │
+  │  SQL / MYSQL     ██████████████████░░░░░░░░░░   SOLID    │
+  │  PHP             █████████████████░░░░░░░░░░░   SOLID    │
+  │  DATA / NUMPY    ████████████████░░░░░░░░░░░░   SOLID    │
+  │  MACHINE LEARN.  ████████████░░░░░░░░░░░░░░░░   LEARNING │
+  │  CYBERSECURITY   ███████████░░░░░░░░░░░░░░░░░   LEARNING │
+  │                                                          │
+  └──────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+`LANGUAGES`
+
+![Python](https://img.shields.io/badge/Python-00FF9F?style=flat-square&logo=python&logoColor=0A0E13)
+![JavaScript](https://img.shields.io/badge/JavaScript-00B8FF?style=flat-square&logo=javascript&logoColor=0A0E13)
+![PHP](https://img.shields.io/badge/PHP-BD00FF?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00FF9F?style=flat-square&logo=mysql&logoColor=0A0E13)
+![C](https://img.shields.io/badge/C-00B8FF?style=flat-square&logo=c&logoColor=0A0E13)
+
+`FRONTEND`
+
+![HTML5](https://img.shields.io/badge/HTML5-00FF9F?style=flat-square&logo=html5&logoColor=0A0E13)
+![CSS3](https://img.shields.io/badge/CSS3-00B8FF?style=flat-square&logo=css3&logoColor=0A0E13)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-BD00FF?style=flat-square&logo=bootstrap&logoColor=white)
+
+`DATA // ML`
+
+![NumPy](https://img.shields.io/badge/NumPy-00B8FF?style=flat-square&logo=numpy&logoColor=0A0E13)
+![Pandas](https://img.shields.io/badge/Pandas-00FF9F?style=flat-square&logo=pandas&logoColor=0A0E13)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-BD00FF?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-00FF9F?style=flat-square&logo=pytorch&logoColor=0A0E13)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00B8FF?style=flat-square&logo=tensorflow&logoColor=0A0E13)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-BD00FF?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-00FF9F?style=flat-square&logo=plotly&logoColor=0A0E13)
+
+`TOOLING // CREATIVE`
+
+![Git](https://img.shields.io/badge/Git-FF003C?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-00B8FF?style=flat-square&logo=github&logoColor=0A0E13)
+![VS Code](https://img.shields.io/badge/VS_Code-BD00FF?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-00B8FF?style=flat-square&logo=adobephotoshop&logoColor=0A0E13)
+![Lightroom](https://img.shields.io/badge/Lightroom-00FF9F?style=flat-square&logo=adobelightroom&logoColor=0A0E13)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://img.shields.io/badge/%2F%2F-SYS.03_→_OPERATIONS-BD00FF?style=for-the-badge&labelColor=0A0E13" height="30"/>
+</div>
+
+```
+  ╭──────────────────────────────────────────────────────────╮
+  │ OP_001 // AUTONOMOUS LINE-FOLLOWER           [ SHIPPED ] │
+  ╰──────────────────────────────────────────────────────────╯
+```
+> Obstacle-avoiding robotic car. Sensor fusion for path tracking,
+> real-time steering correction, and collision avoidance logic.
+>
+> `EMBEDDED` `SENSORS` `CONTROL SYSTEMS`
+
+```
+  ╭──────────────────────────────────────────────────────────╮
+  │ OP_002 // ONLINE MARKETPLACE MANAGER         [ SHIPPED ] │
+  ╰──────────────────────────────────────────────────────────╯
+```
+> Full-stack marketplace management system — product catalogue,
+> user accounts, transaction handling, and an admin control panel.
+>
+> `HTML` `CSS` `JAVASCRIPT` `PHP` `SQL`
+
+```
+  ╭──────────────────────────────────────────────────────────╮
+  │ OP_003 // GS SECURITY AUDIT                  [ SHIPPED ] │
+  ╰──────────────────────────────────────────────────────────╯
+```
+> Goldman Sachs virtual engagement. Analysed password hashing
+> vulnerabilities and delivered a prioritised remediation report.
+>
+> `CRYPTOGRAPHY` `THREAT ANALYSIS` `TECHNICAL WRITING`
+
+```
+  ╭──────────────────────────────────────────────────────────╮
+  │ OP_004 // [ ENCRYPTED ]                  [ IN PROGRESS ] │
+  ╰──────────────────────────────────────────────────────────╯
+```
+
+<details>
+<summary><b>▸ DECRYPT PERSONNEL FILE</b></summary>
+
 <br/>
 
+```
+  > SELECT * FROM pranto WHERE context = 'offline';
+
+  ┌────────────────┬──────────────────────────────────────┐
+  │ fuel           │ tea, aggressively over-brewed        │
+  │ side_channel   │ photography — Lightroom & Photoshop  │
+  │ debug_ritual   │ explain the bug out loud, fix it     │
+  │                │ mid-sentence, tell no one            │
+  │ currently      │ ML fundamentals + security CTFs      │
+  │ open_to        │ collabs, internships, weird ideas    │
+  └────────────────┴──────────────────────────────────────┘
+
+  > 1 row returned.
+```
+
+</details>
+
+---
+
 <div align="center">
-  <img src="https://img.shields.io/badge/02-ARSENAL-00F0FF?style=for-the-badge&labelColor=0D1117" height="32"/>
+<img src="https://img.shields.io/badge/%2F%2F-SYS.04_→_TELEMETRY-FF003C?style=for-the-badge&labelColor=0A0E13" height="30"/>
 </div>
 
 <div align="center">
 
-**` CORE `**
-
-![Python](https://img.shields.io/badge/Python-00F0FF?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF2E97?style=for-the-badge&logo=javascript&logoColor=0D1117&labelColor=0D1117)
-![PHP](https://img.shields.io/badge/PHP-9D00FF?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117)
-![MySQL](https://img.shields.io/badge/MySQL-00F0FF?style=for-the-badge&logo=mysql&logoColor=0D1117&labelColor=0D1117)
-
-**` WEB `**
-
-![HTML5](https://img.shields.io/badge/HTML5-FF2E97?style=for-the-badge&logo=html5&logoColor=0D1117&labelColor=0D1117)
-![CSS3](https://img.shields.io/badge/CSS3-9D00FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/Node.js-00F0FF?style=for-the-badge&logo=node.js&logoColor=0D1117&labelColor=0D1117)
-
-**` DATA // ML `**
-
-![NumPy](https://img.shields.io/badge/NumPy-00F0FF?style=for-the-badge&logo=numpy&logoColor=0D1117&labelColor=0D1117)
-![Pandas](https://img.shields.io/badge/Pandas-FF2E97?style=for-the-badge&logo=pandas&logoColor=0D1117&labelColor=0D1117)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-9D00FF?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117)
-![PyTorch](https://img.shields.io/badge/PyTorch-FF2E97?style=for-the-badge&logo=pytorch&logoColor=0D1117&labelColor=0D1117)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-00F0FF?style=for-the-badge&logo=tensorflow&logoColor=0D1117&labelColor=0D1117)
-![MLflow](https://img.shields.io/badge/MLflow-9D00FF?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=0D1117)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-00F0FF?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=0D1117)
-![Plotly](https://img.shields.io/badge/Plotly-FF2E97?style=for-the-badge&logo=plotly&logoColor=0D1117&labelColor=0D1117)
-
-**` CREATIVE // TOOLING `**
-
-![Photoshop](https://img.shields.io/badge/Photoshop-9D00FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=0D1117)
-![Lightroom](https://img.shields.io/badge/Lightroom-00F0FF?style=for-the-badge&logo=adobelightroom&logoColor=0D1117&labelColor=0D1117)
-![Git](https://img.shields.io/badge/Git-FF2E97?style=for-the-badge&logo=git&logoColor=0D1117&labelColor=0D1117)
-![VS Code](https://img.shields.io/badge/VS_Code-9D00FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/03-MISSION_LOG-9D00FF?style=for-the-badge&labelColor=0D1117" height="32"/>
-</div>
-
-<div align="center">
-
-| `ID` | `PROJECT` | `PAYLOAD` | `STATUS` |
-|:---:|:---|:---|:---:|
-| `#001` | **Autonomous Line-Follower** | Obstacle-avoiding robotic car — sensor logic + embedded control | ![](https://img.shields.io/badge/SHIPPED-00F0FF?style=flat-square&labelColor=0D1117) |
-| `#002` | **Online Marketplace Manager** | Full-stack marketplace system — `HTML` `CSS` `JS` `PHP` `SQL` | ![](https://img.shields.io/badge/SHIPPED-00F0FF?style=flat-square&labelColor=0D1117) |
-| `#003` | **GS Security Audit** | Hash-algorithm vulnerability analysis + remediation proposal | ![](https://img.shields.io/badge/SHIPPED-00F0FF?style=flat-square&labelColor=0D1117) |
-| `#004` | **[ CLASSIFIED ]** | next build loading... | ![](https://img.shields.io/badge/IN_PROGRESS-FF2E97?style=flat-square&labelColor=0D1117) |
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/04-SYSTEM_DIAGNOSTICS-FF2E97?style=for-the-badge&labelColor=0D1117" height="32"/>
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranto-Roy-10&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF2E97&icon_color=00F0FF&text_color=C9D1D9&ring_color=9D00FF" />
-<img width="41%" src="https://streak-stats.demolab.com?user=Pranto-Roy-10&hide_border=true&background=0D1117&stroke=9D00FF&ring=FF2E97&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-
-<br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranto-Roy-10&layout=compact&langs_count=8&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" />
+<img width="60%" src="https://streak-stats.demolab.com?user=Pranto-Roy-10&hide_border=true&background=0A0E13&stroke=BD00FF&ring=00FF9F&fire=FF003C&currStreakLabel=00FF9F&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=00B8FF&dates=8B949E" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranto-Roy-10&bg_color=0D1117&color=00F0FF&line=FF2E97&point=FFFFFF&area=true&area_color=9D00FF&title_color=FF2E97&hide_border=true&custom_title=NEURAL%20ACTIVITY%20FEED" />
+<img width="85%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
 
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/05-TROPHY_CACHE-00F0FF?style=for-the-badge&labelColor=0D1117" height="32"/>
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pranto-Roy-10&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="95%"/>
-
-<br/>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Pranto-Roy-10&limit=5&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=FF2E97&text_color=C9D1D9" width="45%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/06-TRANSMISSIONS-9D00FF?style=for-the-badge&labelColor=0D1117" height="32"/>
+<img src="https://img.shields.io/badge/%2F%2F-SYS.05_→_UPLINK-00FF9F?style=for-the-badge&labelColor=0A0E13" height="30"/>
 </div>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/pranto-roy-2a406b349/">
-<img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" />
-</a>
-<a href="https://www.facebook.com/pranto.roy.96592">
-<img src="https://img.shields.io/badge/FACEBOOK-9D00FF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://www.instagram.com/ro_y101/">
-<img src="https://img.shields.io/badge/INSTAGRAM-FF2E97?style=for-the-badge&logo=instagram&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LINKEDIN-00B8FF?style=for-the-badge&logo=linkedin&logoColor=0A0E13&labelColor=0A0E13" />
 </a>
 <a href="mailto:prantoroy504@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00F0FF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/EMAIL-00FF9F?style=for-the-badge&logo=gmail&logoColor=0A0E13&labelColor=0A0E13" />
+</a>
+<a href="https://www.facebook.com/pranto.roy.96592">
+<img src="https://img.shields.io/badge/FACEBOOK-BD00FF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0A0E13" />
+</a>
+<a href="https://www.instagram.com/ro_y101/">
+<img src="https://img.shields.io/badge/INSTAGRAM-FF003C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0E13" />
 </a>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Pranto-Roy-10/Pranto-Roy-10/output/snake.svg" alt="snake" width="95%"/>
+```
+  > logout
+  > connection closed by remote host.
+  > stay dangerous. build things that matter.
+```
 
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D00FF,50:FF2E97,100:00F0FF&height=3&section=header" width="100%"/>
-
-<br/>
-
-`> connection terminated. stay dangerous.`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,35:FF2E97,70:9D00FF,100:0D1117&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF9F,35:00B8FF,70:BD00FF,100:0A0E13&height=160&section=footer" width="100%"/>
 
 </div>
