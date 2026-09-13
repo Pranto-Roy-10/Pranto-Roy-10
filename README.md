@@ -1,239 +1,150 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0E13,30:BD00FF,65:00B8FF,100:00FF9F&height=180&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=170&section=header&text=Pranto%20Roy&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Science%20%26%20Engineering%20%E2%80%A2%20BRAC%20University&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+
+<a href="https://www.linkedin.com/in/pranto-roy-2a406b349/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:prantoroy504@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-30363D?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://komarev.com/ghpvc/?username=Pranto-Roy-10&color=1F6FEB&style=flat-square&label=Profile+views"/>
 
 </div>
-
-```
-╔════════════════════════════════════════════════════════════╗
-║    ██████╗ ██████╗  █████╗ ███╗   ██╗████████╗ ██████╗     ║
-║    ██╔══██╗██╔══██╗██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗    ║
-║    ██████╔╝██████╔╝███████║██╔██╗ ██║   ██║   ██║   ██║    ║
-║    ██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║   ██║   ██║   ██║    ║
-║    ██║     ██║  ██║██║  ██║██║ ╚████║   ██║   ╚██████╔╝    ║
-║    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝     ║
-║                                                            ║
-║    ██████╗  ██████╗ ██╗   ██╗                              ║
-║    ██╔══██╗██╔═══██╗╚██╗ ██╔╝                              ║
-║    ██████╔╝██║   ██║ ╚████╔╝      N E T R U N N E R        ║
-║    ██╔══██╗██║   ██║  ╚██╔╝       ─────────────────        ║
-║    ██║  ██║╚██████╔╝   ██║        CSE // BRAC UNIV.        ║
-║    ╚═╝  ╚═╝ ╚═════╝    ╚═╝                                 ║
-╚════════════════════════════════════════════════════════════╝
-
-  [ BOOT ] mounting /dev/curiosity ................... OK
-  [ BOOT ] loading python3 runtime ................... OK
-  [ BOOT ] injecting web_stack.so .................... OK
-  [ BOOT ] arming cybersec_probe ..................... OK
-  [ BOOT ] handshake complete — welcome, visitor.
-```
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=24&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&width=780&height=50&lines=%3E+turning+caffeine+into+commits+since+2023;%3E+python+%7C%7C+full-stack+%7C%7C+cybersecurity;%3E+currently+decrypting%3A+machine+learning;%3E+open+to+collaborate.+ping+me._" alt="typing" />
-
-![](https://img.shields.io/badge/STATUS-ONLINE-00FF9F?style=flat-square&labelColor=0A0E13)
-![](https://img.shields.io/badge/NODE-DHAKA_%7C%7C_BD-00B8FF?style=flat-square&labelColor=0A0E13)
-![](https://img.shields.io/badge/LANG-BN_%2F%2F_EN-BD00FF?style=flat-square&labelColor=0A0E13)
-[![](https://komarev.com/ghpvc/?username=Pranto-Roy-10&color=00FF9F&style=flat-square&label=TRACES)](https://github.com/Pranto-Roy-10)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://img.shields.io/badge/%2F%2F-SYS.01_→_IDENTITY-00FF9F?style=for-the-badge&labelColor=0A0E13" height="30"/>
-</div>
-
-```yaml
-user:     pranto_roy
-handle:   Pranto-Roy-10
-node:     BRAC University — Computer Science & Engineering
-role:     student // builder // perpetual debugger
-
-directive: >
-  I build things that run. Started with Python, drifted into
-  full-stack web, and now I keep one eye on cybersecurity and
-  one on machine learning. I like problems that don't have a
-  StackOverflow answer yet.
-
-clearance:
-  - Goldman Sachs SWE Virtual Experience (Forage)
-      └── audited IT security posture, dismantled weak password
-          hashing, shipped hardening recommendations
-  - BRAC University Research for Development Club — member
-  - "Speakathon" State Public Speaking Comp — recognized volunteer
-  - Duke of Edinburgh's International Award — Bronze Standard
-
-status: compiling something new
-```
-
----
-
-<div align="center">
-<img src="https://img.shields.io/badge/%2F%2F-SYS.02_→_LOADOUT-00B8FF?style=for-the-badge&labelColor=0A0E13" height="30"/>
-</div>
-
-```
-  ┌─ PROFICIENCY MATRIX ─────────────────────────────────────┐
-  │                                                          │
-  │  PYTHON          ████████████████████████░░░░   CORE     │
-  │  HTML / CSS      ██████████████████████░░░░░░   STRONG   │
-  │  JAVASCRIPT      ███████████████████░░░░░░░░░   STRONG   │
-  │  SQL / MYSQL     ██████████████████░░░░░░░░░░   SOLID    │
-  │  PHP             █████████████████░░░░░░░░░░░   SOLID    │
-  │  DATA / NUMPY    ████████████████░░░░░░░░░░░░   SOLID    │
-  │  MACHINE LEARN.  ████████████░░░░░░░░░░░░░░░░   LEARNING │
-  │  CYBERSECURITY   ███████████░░░░░░░░░░░░░░░░░   LEARNING │
-  │                                                          │
-  └──────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-`LANGUAGES`
-
-![Python](https://img.shields.io/badge/Python-00FF9F?style=flat-square&logo=python&logoColor=0A0E13)
-![JavaScript](https://img.shields.io/badge/JavaScript-00B8FF?style=flat-square&logo=javascript&logoColor=0A0E13)
-![PHP](https://img.shields.io/badge/PHP-BD00FF?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-00FF9F?style=flat-square&logo=mysql&logoColor=0A0E13)
-![C](https://img.shields.io/badge/C-00B8FF?style=flat-square&logo=c&logoColor=0A0E13)
-
-`FRONTEND`
-
-![HTML5](https://img.shields.io/badge/HTML5-00FF9F?style=flat-square&logo=html5&logoColor=0A0E13)
-![CSS3](https://img.shields.io/badge/CSS3-00B8FF?style=flat-square&logo=css3&logoColor=0A0E13)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-BD00FF?style=flat-square&logo=bootstrap&logoColor=white)
-
-`DATA // ML`
-
-![NumPy](https://img.shields.io/badge/NumPy-00B8FF?style=flat-square&logo=numpy&logoColor=0A0E13)
-![Pandas](https://img.shields.io/badge/Pandas-00FF9F?style=flat-square&logo=pandas&logoColor=0A0E13)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-BD00FF?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-00FF9F?style=flat-square&logo=pytorch&logoColor=0A0E13)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-00B8FF?style=flat-square&logo=tensorflow&logoColor=0A0E13)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-BD00FF?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-00FF9F?style=flat-square&logo=plotly&logoColor=0A0E13)
-
-`TOOLING // CREATIVE`
-
-![Git](https://img.shields.io/badge/Git-FF003C?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-00B8FF?style=flat-square&logo=github&logoColor=0A0E13)
-![VS Code](https://img.shields.io/badge/VS_Code-BD00FF?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-00B8FF?style=flat-square&logo=adobephotoshop&logoColor=0A0E13)
-![Lightroom](https://img.shields.io/badge/Lightroom-00FF9F?style=flat-square&logo=adobelightroom&logoColor=0A0E13)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://img.shields.io/badge/%2F%2F-SYS.03_→_OPERATIONS-BD00FF?style=for-the-badge&labelColor=0A0E13" height="30"/>
-</div>
-
-```
-  ╭──────────────────────────────────────────────────────────╮
-  │ OP_001 // AUTONOMOUS LINE-FOLLOWER           [ SHIPPED ] │
-  ╰──────────────────────────────────────────────────────────╯
-```
-> Obstacle-avoiding robotic car. Sensor fusion for path tracking,
-> real-time steering correction, and collision avoidance logic.
->
-> `EMBEDDED` `SENSORS` `CONTROL SYSTEMS`
-
-```
-  ╭──────────────────────────────────────────────────────────╮
-  │ OP_002 // ONLINE MARKETPLACE MANAGER         [ SHIPPED ] │
-  ╰──────────────────────────────────────────────────────────╯
-```
-> Full-stack marketplace management system — product catalogue,
-> user accounts, transaction handling, and an admin control panel.
->
-> `HTML` `CSS` `JAVASCRIPT` `PHP` `SQL`
-
-```
-  ╭──────────────────────────────────────────────────────────╮
-  │ OP_003 // GS SECURITY AUDIT                  [ SHIPPED ] │
-  ╰──────────────────────────────────────────────────────────╯
-```
-> Goldman Sachs virtual engagement. Analysed password hashing
-> vulnerabilities and delivered a prioritised remediation report.
->
-> `CRYPTOGRAPHY` `THREAT ANALYSIS` `TECHNICAL WRITING`
-
-```
-  ╭──────────────────────────────────────────────────────────╮
-  │ OP_004 // [ ENCRYPTED ]                  [ IN PROGRESS ] │
-  ╰──────────────────────────────────────────────────────────╯
-```
-
-<details>
-<summary><b>▸ DECRYPT PERSONNEL FILE</b></summary>
 
 <br/>
 
+## About
+
+I'm a Computer Science and Engineering undergraduate at **BRAC University**, focused on Python development, full-stack web engineering, and application security.
+
+I enjoy work that sits where software meets the real world — whether that's writing the control logic for an autonomous robot, designing the database behind a marketplace, or auditing how a system stores its passwords. I care about building things that are correct and maintainable, not just things that run.
+
+Currently deepening my knowledge of **machine learning** and **cybersecurity**, and open to internships, research collaborations, and open-source contributions.
+
+```text
+Focus areas    Python  ·  Full-Stack Web  ·  Databases  ·  Application Security
+Learning now   Machine Learning  ·  Secure System Design
+Languages      Bangla (native)  ·  English (fluent)
+Open to        Internships  ·  Collaboration  ·  Open Source
 ```
-  > SELECT * FROM pranto WHERE context = 'offline';
 
-  ┌────────────────┬──────────────────────────────────────┐
-  │ fuel           │ tea, aggressively over-brewed        │
-  │ side_channel   │ photography — Lightroom & Photoshop  │
-  │ debug_ritual   │ explain the bug out loud, fix it     │
-  │                │ mid-sentence, tell no one            │
-  │ currently      │ ML fundamentals + security CTFs      │
-  │ open_to        │ collabs, internships, weird ideas    │
-  └────────────────┴──────────────────────────────────────┘
+<br/>
 
-  > 1 row returned.
-```
+## Tech Stack
 
-</details>
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Data & Machine Learning**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white)
+
+<br/>
+
+## Featured Projects
+
+<table>
+  <tr>
+    <th align="left" width="30%">Project</th>
+    <th align="left" width="46%">Description</th>
+    <th align="left" width="24%">Stack</th>
+  </tr>
+  <tr>
+    <td valign="top"><b>Online Marketplace Management System</b></td>
+    <td valign="top">Full-stack marketplace platform with product catalogue, user account management, transaction handling, and an administrative dashboard.</td>
+    <td valign="top"><code>PHP</code> <code>MySQL</code> <code>JavaScript</code> <code>HTML/CSS</code></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Autonomous Line-Following Robot</b></td>
+    <td valign="top">Obstacle-avoiding robotic vehicle using sensor-driven path tracking with real-time steering correction and collision avoidance.</td>
+    <td valign="top"><code>Embedded C</code> <code>Sensors</code> <code>Control Logic</code></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Password Hashing Security Audit</b></td>
+    <td valign="top">Assessed IT security practices, identified weaknesses in password hashing implementations, and delivered prioritised remediation recommendations.</td>
+    <td valign="top"><code>Cryptography</code> <code>Threat Analysis</code></td>
+  </tr>
+</table>
+
+<br/>
+
+## Experience & Achievements
+
+| | |
+|:--|:--|
+| **Goldman Sachs — Software Engineering Virtual Experience** <br/> *Forage* | Evaluated organisational IT security practices, analysed vulnerabilities in password hashing algorithms, and proposed actionable improvements to strengthen the security posture. |
+| **BRAC University Research for Development Club** <br/> *Member* | Active contributor to research-focused initiatives and student-led projects. |
+| **"Speakathon" State Level Public Speaking Competition** <br/> *Volunteer* | Recognised for contribution to the organisation and delivery of the event. |
+| **The Duke of Edinburgh's International Award** <br/> *Bronze Standard* | Awarded for sustained commitment to skill development, physical activity, service, and personal growth. |
+
+<br/>
+
+## GitHub Activity
 
 <div align="center">
-<img src="https://img.shields.io/badge/%2F%2F-SYS.04_→_TELEMETRY-FF003C?style=for-the-badge&labelColor=0A0E13" height="30"/>
-</div>
 
-<div align="center">
+<img height="170" src="https://streak-stats.demolab.com?user=Pranto-Roy-10&hide_border=true&border_radius=6&background=0D1117&stroke=30363D&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" alt="Contribution streak"/>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=Pranto-Roy-10&hide_border=true&background=0A0E13&stroke=BD00FF&ring=00FF9F&fire=FF003C&currStreakLabel=00FF9F&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=00B8FF&dates=8B949E" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranto-Roy-10&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=6&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub stats"/>
 
-<br/><br/>
+<br/>
 
-<img width="85%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranto-Roy-10&layout=compact&langs_count=8&include_all_commits=true&hide_border=true&border_radius=6&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
 
 </div>
 
----
+<br/>
 
-<div align="center">
-<img src="https://img.shields.io/badge/%2F%2F-SYS.05_→_UPLINK-00FF9F?style=for-the-badge&labelColor=0A0E13" height="30"/>
-</div>
+## Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/pranto-roy-2a406b349/">
-<img src="https://img.shields.io/badge/LINKEDIN-00B8FF?style=for-the-badge&logo=linkedin&logoColor=0A0E13&labelColor=0A0E13" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:prantoroy504@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00FF9F?style=for-the-badge&logo=gmail&logoColor=0A0E13&labelColor=0A0E13" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.facebook.com/pranto.roy.96592">
-<img src="https://img.shields.io/badge/FACEBOOK-BD00FF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0A0E13" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/ro_y101/">
-<img src="https://img.shields.io/badge/INSTAGRAM-FF003C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0E13" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-```
-  > logout
-  > connection closed by remote host.
-  > stay dangerous. build things that matter.
-```
+<sub>Open to internships, research collaboration, and open-source contributions.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF9F,35:00B8FF,70:BD00FF,100:0A0E13&height=160&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,55:1F6FEB,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
