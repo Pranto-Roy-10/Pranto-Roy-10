@@ -75,24 +75,42 @@ I like work that sits where software meets the real world — writing the contro
 
 <table>
   <tr>
-    <th align="left" width="28%">Project</th>
-    <th align="left" width="48%">Description</th>
+    <th align="left" width="24%">Project</th>
+    <th align="left" width="52%">Description</th>
     <th align="left" width="24%">Stack</th>
   </tr>
   <tr>
-    <td valign="top"><b>🛒 Online Marketplace Management System</b></td>
-    <td valign="top">Full-stack marketplace platform with product catalogue, user account management, transaction handling, and an administrative dashboard.</td>
-    <td valign="top"><code>PHP</code> <code>MySQL</code> <code>JavaScript</code> <code>HTML/CSS</code></td>
+    <td valign="top">
+      <a href="https://github.com/Pranto-Roy-10/LifeLine"><b>🆘 LifeLine</b></a><br/>
+      <sub><a href="https://lifeline-rlf3.onrender.com">Live demo ↗</a></sub>
+    </td>
+    <td valign="top">Community-first help platform where people post requests and offers, matched on an interactive map. Features real-time chat, Smart Suggestions that score matches by weather, time and proximity, a live availability heatmap of nearby users, and a trust/kindness badge system.</td>
+    <td valign="top"><code>Flask</code> <code>SocketIO</code> <code>SQLAlchemy</code> <code>Google Maps API</code> <code>PostgreSQL</code></td>
   </tr>
   <tr>
-    <td valign="top"><b>🤖 Autonomous Line-Following Robot</b></td>
-    <td valign="top">Obstacle-avoiding robotic vehicle using sensor-driven path tracking with real-time steering correction and collision avoidance logic.</td>
-    <td valign="top"><code>Embedded C</code> <code>Sensors</code> <code>Control Logic</code></td>
+    <td valign="top"><a href="https://github.com/Pranto-Roy-10/MedLink"><b>🏥 MedLink</b></a></td>
+    <td valign="top">Secure medical collaboration platform for patient–doctor–specialist referrals. Implements RSA and elliptic-curve (SECP256K1) encryption, SHA-256 hashing, HMAC integrity verification, digital signatures, cryptographic two-factor auth, end-to-end encrypted messaging, and steganographic prescription storage.</td>
+    <td valign="top"><code>Flask</code> <code>Cryptography</code> <code>SocketIO</code> <code>RBAC</code></td>
   </tr>
   <tr>
-    <td valign="top"><b>🔐 Password Hashing Security Audit</b></td>
-    <td valign="top">Assessed IT security practices, identified weaknesses in password hashing implementations, and delivered prioritised remediation recommendations.</td>
-    <td valign="top"><code>Cryptography</code> <code>Threat Analysis</code></td>
+    <td valign="top"><a href="https://github.com/Pranto-Roy-10/Rescue-Paws"><b>🐾 Rescue Paws</b></a></td>
+    <td valign="top">Community-driven platform connecting donors with local volunteers caring for stray animals. Supports area-based donations, volunteer impact tracking, a points-based supply store with cart and orders, and photo-backed rescue and feeding activity reports.</td>
+    <td valign="top"><code>JavaScript</code> <code>Node.js</code> <code>REST API</code></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/Pranto-Roy-10/Non-deterministic-unsupervised-nn-Heteroscedastic-Stochastic-Embedding-Network-HSEN-"><b>🧠 HSEN</b></a></td>
+    <td valign="top">PyTorch implementation of a Heteroscedastic Stochastic Embedding Network — a non-deterministic unsupervised neural model that learns per-sample uncertainty — benchmarked against Variational Autoencoder and autoencoder baselines with a full written report.</td>
+    <td valign="top"><code>PyTorch</code> <code>Jupyter</code> <code>NumPy</code></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/Pranto-Roy-10/Smart-Home-Automation-WiFi"><b>🏠 Smart Home Automation</b></a></td>
+    <td valign="top">WiFi-based home automation built on the ESP32, driving four independent BT136 TRIAC relays for lights and fans. Devices are controlled remotely from an Arduino IoT Cloud dashboard with real-time ON/OFF state sync and serial telemetry for debugging.</td>
+    <td valign="top"><code>C++</code> <code>ESP32</code> <code>Arduino IoT Cloud</code></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/Pranto-Roy-10/Smart-Traffic-Simulator-8086"><b>🚦 Smart Traffic Simulator</b></a></td>
+    <td valign="top">Low-level traffic light controller written in 8086 assembly. Cycles real signal patterns with pedestrian WALK / DON'T WALK prompts, high-traffic lane prioritisation, and emergency-vehicle override — using BIOS interrupts for timing and port programming for output.</td>
+    <td valign="top"><code>x86 Assembly</code> <code>EMU8086</code> <code>BIOS Interrupts</code></td>
   </tr>
 </table>
 
