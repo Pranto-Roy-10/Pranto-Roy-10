@@ -57,10 +57,11 @@ I learn by building systems end to end, and I work best where a research questio
 
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn,anaconda,latex&theme=dark&perline=4" />
 <br/>
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square&logo=leaflet&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+<img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white"/>
+<img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square&logo=leaflet&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
 **Web · Backend**
 
@@ -70,12 +71,13 @@ I learn by building systems end to end, and I work best where a research questio
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,arduino&theme=dark&perline=5" />
 <br/>
-![RSA / ECC](https://img.shields.io/badge/RSA%20%2F%20ECC-A371F7?style=flat-square&logo=letsencrypt&logoColor=white)
-![SHA-256](https://img.shields.io/badge/SHA--256%20%2F%20HMAC-1F6FEB?style=flat-square&logo=keycdn&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![EMU8086](https://img.shields.io/badge/x86%20Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+<img alt="RSA / ECC" src="https://img.shields.io/badge/RSA%20%2F%20ECC-A371F7?style=flat-square&logo=letsencrypt&logoColor=white"/>
+<img alt="SHA-256" src="https://img.shields.io/badge/SHA--256%20%2F%20HMAC-1F6FEB?style=flat-square&logo=keycdn&logoColor=white"/>
+<img alt="Cisco" src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+<img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+<img alt="EMU8086" src="https://img.shields.io/badge/x86%20Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white"/>
+<img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
