@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,80:58A6FF,100:A371F7&height=200&section=header&text=Pranto%20Roy&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Security%20Engineer&descAlignY=56&descSize=16&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=55&lines=Junior+Software+Engineer+at+DDC+Ltd.;Machine+Learning+%7C+Full-Stack+%7C+Security;CSE+graduate%2C+BRAC+University+%E2%80%A2+CGPA+3.81%2F4.00;I+build+systems+end+to+end" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=55&lines=Junior+Software+Engineer+at+DDC+Ltd.;Machine+Learning+%7C+Full-Stack+%7C+Security;CSE+graduate%2C+BRAC+University+%E2%80%A2+CGPA+3.81%2F4.00;I+build+systems+end+to+end;Portfolio+%E2%86%92+pranto-roy-10.github.io" alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://pranto-roy-10.github.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80_VIEW_MY_PORTFOLIO-A371F7?style=for-the-badge&logoColor=white" height="34"/></a>
 
 <br/>
 
@@ -34,6 +38,7 @@ I learn by building systems end to end, and I work best where a research questio
 - 🔬 Research in **machine learning**, uncertainty modelling and model evaluation
 - 🔐 I care as much about deploying and hardening a system as about designing it
 - 🌐 Fluent in **Bangla** and **English**
+- 🚀 Interactive portfolio → **[pranto-roy-10.github.io](https://pranto-roy-10.github.io)** — ride the road through every project
 
 <br clear="right"/>
 
@@ -203,7 +208,9 @@ I learn by building systems end to end, and I work best where a research questio
 
 <br/><br/>
 
-<img height="180" src="https://streak-stats.demolab.com?user=Pranto-Roy-10&hide_border=true&border_radius=8&background=0D1117&stroke=30363D&ring=1F6FEB&fire=A371F7&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" alt="Commit streak"/>
+<img alt="Followers" src="https://img.shields.io/github/followers/Pranto-Roy-10?style=for-the-badge&logo=github&label=FOLLOWERS&color=1F6FEB&labelColor=0D1117"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/Pranto-Roy-10?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=A371F7&labelColor=0D1117"/>
+<img alt="Repos" src="https://img.shields.io/badge/PUBLIC%20REPOS-18-58A6FF?style=for-the-badge&logo=github&labelColor=0D1117"/>
 
 <br/><br/>
 
@@ -221,6 +228,7 @@ I learn by building systems end to end, and I work best where a research questio
 
 <br/>
 
+<a href="https://pranto-roy-10.github.io"><img src="https://img.shields.io/badge/Portfolio-A371F7?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pranto-roy-2a406b349/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:prano1112@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/pranto.roy.96592"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
